@@ -1,9 +1,0 @@
-Name: vukona
-Email: vukona@12345
-Password: $2y$12$B3IK5Vg5k8j55DJLKtVuTe7GLl.n/1CWaJNODOTrTUBePPFWuUqiy
----
-vukona|vukona@12345|$2y$12$FsprUpF9SLI2VL77Y8/SEeoa0Uw6r3ud11GiTrd8pf4UbGVxRuFT2
-Nhlanhla Nkosi|nhlanhlandumison634@gmail.com|$2y$12$CNcrU5LIOYE94j/laZgdwOQ4vDMdtfftfzC4SZouNLKcQBayqXqNe
-vukona|123@gmail.com|$2y$12$SKr.rO9KWgjahJ8wU215N.Outddv3vItCbMCVYMOaVMy0k1E/ammW
-Tebza|Tebza@gmail.com|$2y$12$ORi3dX4EcO0XUhVpwAPrTOTcaBAa58m.JGNrPikBhxVCl9wJAkqeO
-p|ppppp@gmail.com|$2y$12$mpJtZHD7B5Zd1Ulfb.GzR.X22D6ZUIt6buMPVRXFjSK8v7xDMRZG6

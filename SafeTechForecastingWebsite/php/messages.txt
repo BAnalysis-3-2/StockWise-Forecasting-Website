@@ -1,4 +1,0 @@
-Name: fff
-Email: ggg@gmail.com
-Message: hello
----
