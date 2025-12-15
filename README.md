@@ -9,10 +9,9 @@ A fully functional, responsive, and bilingual website for a fictional SME offeri
 ### Home page Preview
 The home page introduces Safe‑Tech Solutions with a hero section, benefits, features, and a demo request modal.
 
-> <img src="Screenshots/home1.png" alt="Image1" width="350"/> <tab>
-> <img src="Screenshots/home2.png" alt="Image2" width="350"/>
-> <img src="Screenshots/home3.png" alt="Image3" width="350"/>
-> <img src="Screenshots/home4.png" alt="Image4" width="350"/>
+> <img src="Screenshots/home1.png" alt="Image1" width="350"/>  <img src="Screenshots/home2.png" alt="Image2" width="350"/>
+
+> <img src="Screenshots/home3.png" alt="Image3" width="350"/> <img src="Screenshots/home4.png" alt="Image4" width="350"/>
 
 ### Login page preview
 The login page provides secure access with validated input fields and session management for user authentication.
