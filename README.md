@@ -107,14 +107,3 @@ This project showcases strong proficiency in modern web development practices. E
 
 ---
 
-## 🚧 Future Development / Roadmap
-
-This project is currently being extended to transform the marketing site into a fully operational application.
-
-### Next Major Goal: **Full Forecasting System Integration**
-
-The primary objective is to make the dashboard functional by integrating a powerful backend capable of performing real-time time-series analysis and forecasting.
-
-* **Technology Shift:** Introducing a new backend service (likely Python/Flask) dedicated to data processing.
-* **API Development:** Creating a secure REST API endpoint to receive user requests and return computed KPI forecasts.
-* **Dashboard Update:** Migrating the existing static KPI charts to dynamic Chart.js instances that consume data directly from the new forecasting API.
