@@ -6,6 +6,18 @@ A fully functional, responsive, and bilingual website for a fictional SME offeri
 
 ## 🖼️ Project Showcase
 
+### Home page Preview
+The home page introduces Safe‑Tech Solutions with a hero section, benefits, features, and a demo request modal.
+
+> <img src="Screenshots/home1.png" alt="Image1" width="350"/>
+> <img src="Screenshots/home2.png" alt="Image2" width="350"/>
+> <img src="Screenshots/home3.png" alt="Image3" width="350"/>
+> <img src="Screenshots/home4.png" alt="Image4" width="350"/>
+
+### Login page preview
+The login page provides secure access with validated input fields and session management for user authentication.
+> <img src="Screenshots/login1.png" alt="Image1" width="350"/>
+
 ### Dashboard Preview
 
 The dashboard displays personalized KPI data and serves as the main authenticated user interface.
@@ -62,7 +74,7 @@ This project requires a local PHP development server to handle sessions and auth
 1.  **Download or clone** the project files.
 2.  **Navigate to the root directory** of the project in your terminal:
     ```bash
-    cd path/to/...
+    cd path/to/StockWise-Forecasting-Website
     ```
 3.  **Start the PHP development server**:
     ```bash
