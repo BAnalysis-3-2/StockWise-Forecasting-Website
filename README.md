@@ -113,7 +113,7 @@ This project showcases strong proficiency in modern web development practices. E
 This project is undergoing a strategic transformation, moving from a static marketing site to a fully operational, high-performance forecasting application.
 
 ### 🚧 Current Migration Status
-We are currently migrating the core logic to align with modern **SDLC** and **Design Thinking** principles learned at the FNB App Academy:
+We are currently migrating the core logic to align with modern **SDLC** and **Design Thinking** principles:
 
 * **Backend Transition:** Deprecating the legacy PHP codebase in favor of a robust **Python/Node.js** backend dedicated to heavy data processing.
 * **Logic Execution:** The core **LSTM + XGBoost Ensemble** is currently functional via a high-performance terminal interface, awaiting API integration.
