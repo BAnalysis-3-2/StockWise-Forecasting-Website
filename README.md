@@ -108,16 +108,23 @@ This project showcases strong proficiency in modern web development practices. E
 ---
 
 
+## 🏗️ Evolution & Roadmap: From Marketing to AI-Intelligence
 
-## 🚧 Future Development / Roadmap
+This project is undergoing a strategic transformation, moving from a static marketing site to a fully operational, high-performance forecasting application.
 
-This project is currently being extended to transform the marketing site into a fully operational application.
+### 🚧 Current Migration Status
+We are currently migrating the core logic to align with modern **SDLC** and **Design Thinking** principles learned at the FNB App Academy:
 
-### Next Major Goal: **Full Forecasting System Integration**
+* **Backend Transition:** Deprecating the legacy PHP codebase in favor of a robust **Python/Node.js** backend dedicated to heavy data processing.
+* **Logic Execution:** The core **LSTM + XGBoost Ensemble** is currently functional via a high-performance terminal interface, awaiting API integration.
+* **Data Integrity:** Implementing automated preprocessing to transform raw historical sales into actionable training sets.
 
-The primary objective is to make the dashboard functional by integrating a powerful backend capable of performing real-time time-series analysis and forecasting.
 
-* **Technology Shift:** Introducing a new backend service (likely Python/Flask) dedicated to data processing.
-* **API Development:** Creating a secure REST API endpoint to receive user requests and return computed KPI forecasts.
-* **Dashboard Update:** Migrating the existing static KPI charts to dynamic Chart.js instances that consume data directly from the new forecasting API.
 
+### 🎯 Next Major Goal: Full Forecasting System Integration
+The primary objective is to make the dashboard fully dynamic by integrating a backend capable of real-time time-series analysis.
+
+* **Technology Stack Shift:** Implementation of **React/Next.js** for the frontend and **Tailwind CSS** for a responsive, professional dashboard.
+* **Ensemble AI API:** Building a secure **REST API** endpoint to serve predictions from the weighted averaging model (LSTM + LightGBM/XGBoost).
+* **Dynamic Data Management:** Replacing static KPI charts with **Chart.js** or **Recharts** components that consume live AI-processed data.
+* **User-Centric Features:** Developing automated stock alerts and "Buy/Hold" recommendations based on computed forecast accuracy.
